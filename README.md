@@ -2,9 +2,10 @@
 
 
 
+[![Watch the video](https://i.ytimg.com/vi/iAwMCHJcqjw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAb4_HJlKREAQfRUkyDp398VjU99A)](https://www.youtube.com/watch?v=iAwMCHJcqjw)
+
 
  
- ![](screen shots/screen video.mp4)
  
  
  <img src="screen shots/screen1.jpg" width="300"> 
@@ -13,6 +14,3 @@
  <img src="screen shots/screen4.jpg" width="300"> 
  <img src="screen shots/screen5.jpg" width="300"> 
  
- <video width="320" height="240" controls>
-  <source src="screen shots/screen video.mp4" type="video/mp4">
-</video>
